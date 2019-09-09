@@ -1,0 +1,26 @@
+{
+  "name": "2020-presidential-candidates-backend",
+  "version": "1.0.0",
+  "description": "The back end for project 4",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiemiller8/2020-presidential-candidates-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiemiller8/2020-presidential-candidates-backend/issues"
+  },
+  "homepage": "https://github.com/jamiemiller8/2020-presidential-candidates-backend#readme"
+}
